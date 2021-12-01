@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CommissionEmployee">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAABQAAAQEQAAAAAEAAAAAAAAACAAACAAAAAA=</HashCode>
+      <FileName>CommissionEmployee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgAAAAACEAAAAAEACgAAAAAAAAAQAAAAAgBAAAACA=</HashCode>
+      <FileName>Company.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Employee">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACggAAAABAgAAAAAAQAAAEECAAAIAAAAAAACEACAAA=</HashCode>
+      <FileName>Employee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HourlyEmployee">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAggARAAABAAAAAAAAAAAAEAAAAAACAAAIgACAAAAAA=</HashCode>
+      <FileName>HourlyEmployee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="FCs">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>FCs.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Sex">
+    <Position X="7" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Sex.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

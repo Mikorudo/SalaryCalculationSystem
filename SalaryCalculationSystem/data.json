@@ -1,0 +1,3 @@
+{"employeeClass":"HourlyEmployee","lastName":"Косточкин","firstName":"Михаил","patronymic":"Алексеевич","sex":0,"hours":0.0,"normHoursPerDay":8,"moneyPerHour":125.0,"moneyPerExtraHour":175.0}
+{"employeeClass":"CommissionEmployee","lastName":"Прохорова","firstName":"Дарья","patronymic":"Васильевна","sex":1,"sales":0.0,"fixedSalary":15000.0,"percentageOfSales":1.0}
+{"employeeClass":"HourlyEmployee","lastName":"noname","firstName":"noname","patronymic":"noname","sex":0,"hours":0.0,"normHoursPerDay":8,"moneyPerHour":200.0,"moneyPerExtraHour":275.0}
